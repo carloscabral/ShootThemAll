@@ -1,0 +1,7 @@
+canvas {
+	border: 1px solid #000;
+	margin: auto;
+	display: block;
+	outline: none;
+	background:url(../img/bg.gif) no-repeat;
+}
